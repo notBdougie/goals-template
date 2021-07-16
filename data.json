@@ -1,0 +1,1 @@
+{"errors":[{"message":"Error from GitHub: Bad credentials","path":["gitHub"],"extensions":{"service":"github","upstream":{"message":"Bad credentials","documentation_url":"https://docs.github.com/graphql"},"traceId":"9b5ed802-6946-4af9-9d7b-357d7c4739b4"}}],"data":{"gitHub":null}}
